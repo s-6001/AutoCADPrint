@@ -13,6 +13,6 @@ namespace AutoCADPrintFromModel
 {
     public class ACadPrint : IExtensionApplication
     {
-        плохая версия
+        9
     }
 }
