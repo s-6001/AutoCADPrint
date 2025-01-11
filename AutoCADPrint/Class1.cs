@@ -5,7 +5,6 @@ using Autodesk.AutoCAD.Runtime;
 using System;
 using Application = Autodesk.AutoCAD.ApplicationServices.Application;
 using AcAp = Autodesk.AutoCAD.ApplicationServices;
-using AcIntCom = Autodesk.AutoCAD.Interop.Common;
 using AXDBLib;
 using Autodesk.AutoCAD.PlottingServices;
 using Autodesk.AutoCAD.Geometry;
